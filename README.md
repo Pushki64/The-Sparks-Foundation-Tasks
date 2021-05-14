@@ -1,2 +1,3 @@
-# The Sparx Foundation Task-1
+# The Sparx Foundation Tasks
 Prediction using supervised ML model
+Predicion using unsupervised ML model
