@@ -1,6 +1,6 @@
 # The Sparks Foundation Tasks
-Prediction using supervised ML model.
+Task 1 - Prediction using supervised ML model.
 
-Predicion using unsupervised ML model.
+Task 2 - Predicion using unsupervised ML model.
 
-Exploratory Data Analysis - Retail
+Task 3 - Exploratory Data Analysis - Retail.
