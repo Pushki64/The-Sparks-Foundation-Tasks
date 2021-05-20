@@ -6,3 +6,7 @@ Task 2 - Predicion using unsupervised ML model.
 Task 3 - Exploratory Data Analysis - Retail.
 
 Task 6 - Prediction using Decision Tree Algorithm.
+
+Task 5 - Exploratory Data Analysis - Sports-IPL
+
+
